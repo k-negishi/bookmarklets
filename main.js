@@ -6,6 +6,6 @@ javascript:(function () {
   if (url.split('?')[0] === amazonUrl) {
     window.open(url + query);
   } else {
-    alert('エラー\n www.amazon.co.jp でご使用ください');
+    alert('エラー\namazon.co.jp の検索結果画面でご使用ください');
   }
 })()
