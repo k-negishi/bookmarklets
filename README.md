@@ -5,5 +5,6 @@ This bookmarklet is that excludes non-Amazon sellers from Amazon.jp by adding "&
 ## Files
 
 You can use it by registering the description of `compiled-file` in the bookmarklet.
+ 
  `main.js` is an uncompiled file.
  
